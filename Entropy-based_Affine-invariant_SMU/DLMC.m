@@ -3,8 +3,6 @@ function [output] = DLMC(bounds, model)
 %
 % Inputs:
 % bounds: bounds on the SDF;
-% Ne:     the scalar value of the number of epistemic realizations;
-% Na:     the scalar value of the number of aleatory realizations;
 % model:  the SDF function-handle;
 %
 % output:
