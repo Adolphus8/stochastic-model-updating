@@ -9,15 +9,7 @@
 clear; clc;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% Load the data from the Stochastic model updating step:
-cse = 3;
-
-if cse == 1
-load('Stochastic_model_updating_CaseI.mat')
-elseif cse == 2
 load('Stochastic_model_updating_CaseII.mat')
-elseif cse == 3
-load('Stochastic_model_updating_CaseIII.mat')
-end
 
 %% Define the Temperature model and Performance function for the reliability analysis:
 
@@ -152,11 +144,4 @@ p_rel = length(find(prob <= 0.01))./length(prob);
 fprintf('The probability of meeting the regulatory requirement is: p_rel = %g\n', p_rel)
 
 %% Save the data:
-
-if cse == 1
-save('Reliability_analysis_CaseI_Independence', 'g_out', 'g_pbox', 'epsilon_k_moments', 'rho_moments', 'timeDLMC', 'failure', 'p_rel') 
-elseif cse == 2
 save('Reliability_analysis_CaseII_Independence', 'g_out', 'g_pbox', 'epsilon_k_moments', 'rho_moments', 'timeDLMC', 'failure', 'p_rel')
-elseif cse == 3
-save('Reliability_analysis_CaseIII_Independence', 'g_out', 'g_pbox', 'epsilon_k_moments', 'rho_moments', 'timeDLMC', 'failure', 'p_rel')
-end
