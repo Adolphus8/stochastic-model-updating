@@ -12,6 +12,6 @@ The work proposes a stochastic model updating framework which involves the use o
 The proposed framework as thus far been implemented to address the following problems:
 * [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Reliability analysis
 
-<details>
+
 
   
