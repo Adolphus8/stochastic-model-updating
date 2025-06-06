@@ -16,6 +16,8 @@ Instructions:
 * First, run the MATLAB file: "Stochastic_model_updating_CaseII.m"
 * Next, run the MATLAB file: "Reliability_analysis_Independence.m"
 
+</details>
+
 ### Hellinger-distance Stochastic Model Updating:
 
 <details>
@@ -30,6 +32,8 @@ The proposed framework as thus far been implemented to address the following pro
 Instructions:
 * First, run the MATLAB file: "Challenge_Problem_Part1.m"
 * Next, run the MATLAB file: "Challenge_Problem_Part2.m"
+
+</details>
 
 
 
