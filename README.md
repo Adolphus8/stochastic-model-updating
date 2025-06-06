@@ -14,7 +14,7 @@ The work proposes a stochastic model updating framework which involves the use o
 The proposed framework as thus far been implemented to address the following problems:
 * [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Reliability analysis
 
-Instructions:
+#### Instructions:
 * First, run the MATLAB file: "Stochastic_model_updating_CaseII.m"
 * Next, run the MATLAB file: "Reliability_analysis_Independence.m"
 
@@ -33,7 +33,7 @@ The work proposes a stochastic model updating framework which involves the use o
 The proposed framework as thus far been implemented to address the following problems:
 * [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Accreditation validation analysis
 
-Instructions:
+#### Instructions:
 * First, run the MATLAB file: "Challenge_Problem_Part1.m"
 * Next, run the MATLAB file: "Challenge_Problem_Part2.m"
 
