@@ -7,6 +7,8 @@ A tutorial on the numerous distance-based stochastic model updating framework, a
 
 <summary> Click for details! </summary>
 
+#### Description:
+
 The work proposes a stochastic model updating framework which involves the use of the [Jensen-Shannon divergence](https://doi.org/10.1016/j.ymssp.2021.107954) as the distance function, and the [Transtional Ensemble Markov Chain Monte Carlo (TEMCMC)](https://doi.org/10.1016/j.ymssp.2021.108471) and the sampler to obtain posterior estimates.
 
 The proposed framework as thus far been implemented to address the following problems:
@@ -23,6 +25,8 @@ Instructions:
 <details>
 
 <summary> Click for details! </summary>
+
+#### Description:
 
 The work proposes a stochastic model updating framework which involves the use of the [Hellinger distance](https://en.wikipedia.org/wiki/Hellinger_distance) as the distance function, and the [Transtional Ensemble Markov Chain Monte Carlo (TEMCMC)](https://doi.org/10.1016/j.ymssp.2021.108471) and the sampler to obtain posterior estimates.
 
