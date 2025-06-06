@@ -20,7 +20,7 @@ The proposed framework as thus far been implemented to address the following pro
 
 </details>
 
-### Hellinger-distance Stochastic Model Updating:
+### Hellinger distance-based Stochastic Model Updating:
 
 <details>
 
