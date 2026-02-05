@@ -15,6 +15,7 @@ The proposed framework as thus far been implemented to address the following pro
 * [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Reliability analysis
 
 #### References:
+* A. Lye, S. Ferson, and S. Xiao (2026). A Distribution-free Stochastic Physics-guided Reliability Analysis under Polymorphic Uncertainty. *Annals of Nuclear Energy*, 112191 (Accepted).
 * A. Lye, S. Ferson, and S. Xiao (2024). Distribution-free stochastic model updating for the Physics-guided reliability analysis of a material thermal property under limited data. *In Proceedings of the 17th Probabilistic Safety Assessment and Management and Asian Symposium on Risk Assessment and Management 2024*, Sendai. Link to paper: [Click here](https://www.researchgate.net/publication/384680125_Distribution-free_stochastic_model_updating_for_the_Physics-guided_reliability_analysis_of_a_material_thermal_property_under_limited_data)
 
 </details>
