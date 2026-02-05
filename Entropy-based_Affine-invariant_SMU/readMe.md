@@ -14,7 +14,7 @@
 
 </details>
 
-## Fault-tree analysis of the Thailand TRIGA Research Reactor 1 / Modified-1 (TRR1/M1):
+## TRIGA Fault-tree:
 <details>
 
 <summary> Click for details! </summary>
