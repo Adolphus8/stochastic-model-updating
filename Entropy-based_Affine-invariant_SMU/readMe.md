@@ -24,6 +24,6 @@
 * Finally, run the following R file to perform the fault-tree propagation and the probability bounds analysis: "Case_study_Part_3.r"
 
 #### References:
-* A. Lye, W. Vechgama, S. Ferson, and S. Xiao (2025). Robust Probabilistic Risk Assessment with Fault-Trees via an Entropy-based Affine-invariant Stochastic Model updating Framework with Probability Bounds Analysis. In Proceedings of the 10th Asian Symposium on Risk Assessment and Management, Sendai. Link to paper: [Click here](https://www.researchgate.net/publication/394977869_Robust_Probabilistic_Risk_Assessment_with_Fault-Trees_via_an_Entropy-based_Affine-invariant_Stochastic_Model_updating_Framework_with_Probability_Bounds_Analysis)
+* A. Lye, W. Vechgama, S. Ferson, and S. Xiao (2025). Robust Probabilistic Risk Assessment with Fault-Trees via an Entropy-based Affine-invariant Stochastic Model updating Framework with Probability Bounds Analysis. *In Proceedings of the 10th Asian Symposium on Risk Assessment and Management*, Sendai. Link to paper: [Click here](https://www.researchgate.net/publication/394977869_Robust_Probabilistic_Risk_Assessment_with_Fault-Trees_via_an_Entropy-based_Affine-invariant_Stochastic_Model_updating_Framework_with_Probability_Bounds_Analysis)
 
 </details>
