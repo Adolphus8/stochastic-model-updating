@@ -13,11 +13,11 @@ The work proposes a stochastic model updating framework which involves the use o
 
 The proposed framework as thus far been implemented to address the following problems:
 * [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Reliability analysis
-* The fault-tree analysis of the Thailand TRIGA Research Reactor 1 / Modified-1 (TRR1/M1)
+* The fault-tree analysis of the Thailand TRIGA Research Reactor-1 / Modified 1 (TRR-1/M1)
 
 #### References:
-* A. Lye, S. Ferson, and S. Xiao (2026). A Distribution-free Stochastic Physics-guided Reliability Analysis under Polymorphic Uncertainty. *Annals of Nuclear Energy*, 112191 (Accepted).
-* A. Lye, W. Vechgama, S. Ferson, and S. Xiao (2025). Robust Probabilistic Risk Assessment with Fault-Trees via an Entropy-based Affine-invariant Stochastic Model updating Framework with Probability Bounds Analysis.  *In Proceedings of the 10th Asian Symposium on Risk Assessment and Management*, Sendai. Link to paper: [Click here](https://www.researchgate.net/publication/384680125_Distribution-free_stochastic_model_updating_for_the_Physics-guided_reliability_analysis_of_a_material_thermal_property_under_limited_data)
+* A. Lye, S. Ferson, and S. Xiao (2026). A Distribution-free Stochastic Physics-guided Reliability Analysis under Polymorphic Uncertainty. *Annals of Nuclear Energy, 231*, 112191. doi: [10.1016/j.anucene.2026.112191](https://www.sciencedirect.com/science/article/pii/S0306454926000794?via%3Dihub)
+* A. Lye, W. Vechgama, S. Ferson, and S. Xiao (2025). Robust Probabilistic Risk Assessment with Fault-Trees via an Entropy-based Affine-invariant Stochastic Model updating Framework with Probability Bounds Analysis. *In Proceedings of the 10th Asian Symposium on Risk Assessment and Management*, Pattaya. Link to paper: [Click here](https://www.researchgate.net/publication/384680125_Distribution-free_stochastic_model_updating_for_the_Physics-guided_reliability_analysis_of_a_material_thermal_property_under_limited_data)
 * A. Lye, S. Ferson, and S. Xiao (2024). Distribution-free stochastic model updating for the Physics-guided reliability analysis of a material thermal property under limited data. *In Proceedings of the 17th Probabilistic Safety Assessment and Management and Asian Symposium on Risk Assessment and Management 2024*, Sendai. Link to paper: [Click here](https://www.researchgate.net/publication/384680125_Distribution-free_stochastic_model_updating_for_the_Physics-guided_reliability_analysis_of_a_material_thermal_property_under_limited_data)
 
 </details>
