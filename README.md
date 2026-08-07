@@ -33,9 +33,11 @@ The proposed framework as thus far been implemented to address the following pro
 The work proposes a stochastic model updating framework which involves the use of the [Hellinger distance](https://en.wikipedia.org/wiki/Hellinger_distance) as the distance function, and the [Transtional Ensemble Markov Chain Monte Carlo (TEMCMC)](https://doi.org/10.1016/j.ymssp.2021.108471) and the sampler to obtain posterior estimates.
 
 The proposed framework as thus far been implemented to address the following problems:
-* [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Accreditation validation analysis
+* Distribution-free Fault-tree analysis under Uncertainty (i.e., see Lye et al. (2026))
+* [The SANDIA Thermal Problem 2008](https://doi.org/10.1016/j.cma.2007.09.029) - Accreditation validation analysis (i.e., see Lye et al. (2025))
 
 #### References:
+* A. Lye, W. Vechgama, A. Wimbush, S. Ferson, and S. Xiao (2026). A Distribution-free Stochastic Physics-guided Reliability Analysis under Polymorphic Uncertainty. *International Journal of Advanced Nuclear Reactor Design and Technology, 8*, 356-369. doi: [10.1016/j.jandt.2026.07.005](https://www.sciencedirect.com/science/article/pii/S2468605026000475?via%3Dihub)
 * A. Lye, S. Ferson, and S. Xiao (2025). A Hellinger Distance-Based Stochastic Model Updating Framework for the Accreditation Validation of a Material Thermal Property Under Limited Data. *In Proceedings of the 35th European Safety and Reliability Conference and 33rd Society for Risk Analysis Europe Conference*, Stavanger. doi: [10.3850/978-981-94-3281-3_ESREL-SRA-E2025-P4632-cd](https://rpsonline.com.sg/proceedings/esrel-sra-e2025/html/ESREL-SRA-E2025-P4632.html)
 
 </details>
